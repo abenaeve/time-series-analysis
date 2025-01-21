@@ -1,0 +1,3 @@
+requests
+Python 3.7+
+GitHub API token for authentication
